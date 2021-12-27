@@ -8,7 +8,7 @@ import view.MailHistogramBuilder;
 import view.MailListReader;
 
 
-public class Kata4 {
+public class Kata5p2 {
     private static String fileName;
     private static List<Mail> mailList;
     private static Histogram<String> histogram;
